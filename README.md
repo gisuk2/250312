@@ -21,5 +21,6 @@
 - README 파일은 주로 깃허브에서 자신의 repository에 대한 설명을 나타내기 위해 작성
 
 - 참고 사이트
+    - [교수님 사이트] https://velog.io/@martin-yeo/posts
     - https://realzzu.tistory.com/101 
     - https://12716.tistory.com/entry/
